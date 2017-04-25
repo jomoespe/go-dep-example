@@ -23,8 +23,5 @@ _testmain.go
 *.test
 *.prof
 
-# Go dep related and vendor directory
-vendor/
-
-# project binariesl
+# project binaries
 go-dep-example
