@@ -1,0 +1,10 @@
+language: go
+
+go:
+  - 1.8.x
+
+#before_install:
+#  - dep ensure -update
+
+#script:
+#  - go test -cpu=1,2 -v -tags integration ./..
