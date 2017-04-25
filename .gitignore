@@ -24,7 +24,6 @@ _testmain.go
 *.prof
 
 # Go dep related and vendor directory
-Gopkg.lock
 vendor/
 
 # project binariesl

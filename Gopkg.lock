@@ -1,0 +1,7 @@
+memo = "635ef032160676a7869256ecffe450d1f1177b05fb56ed39ef15be12b02ec339"
+
+[[projects]]
+  name = "github.com/chzyer/readline"
+  packages = ["."]
+  revision = "62c6fe6193755f722b8b8788aa7357be55a50ff1"
+  version = "v1.4"
