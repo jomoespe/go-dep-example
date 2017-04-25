@@ -1,4 +1,5 @@
 # Go dep example
+[![Build Status](https://travis-ci.org/jomoespe/go-dep-example.svg?branch=master)](https://travis-ci.org/jomoespe/go-dep-example)
 
 This application is an example of [go dep](https://github.com/golang/dep) usage, a dependency management tool for Go language.
 
