@@ -1,0 +1,4 @@
+
+[[dependencies]]
+  name = "github.com/chzyer/readline"
+  version = "1.4"
